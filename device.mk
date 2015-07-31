@@ -15,7 +15,7 @@
 #
 
 # Get non-open-source specific aspects if available
-$(call inherit-product-if-exists, vendor/samsung/matissewifi/matissewifi-vendor.mk)
+$(call inherit-product-if-exists, vendor/samsung/millet-common/millet-common-vendor.mk)
 
 # Overlay
 DEVICE_PACKAGE_OVERLAYS += device/samsung/milletwifi/overlay
