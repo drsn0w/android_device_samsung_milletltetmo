@@ -30,5 +30,5 @@ include device/samsung/millet-common/BoardConfigCommon.mk
 TARGET_OTA_ASSERT_DEVICE := milletwifi,milletwifixx,330,SM-T330
 
 BOARD_CUSTOM_BOOTIMG_MK := device/samsung/milletwifi/mkbootimg.mk
-TARGET_KERNEL_VARIANT_CONFIG := msm8226-sec_matissewifi_defconfig
+TARGET_KERNEL_VARIANT_CONFIG := msm8226-sec_milletwifi_defconfig
 
