@@ -1,0 +1,9 @@
+# system.prop for milletwifi
+
+# RIL
+ro.carrier=wifi-only
+ro.radio.noril=yes
+
+# Device ID
+ro.product.device=milletwifi
+ro.product.model=milletwifi
