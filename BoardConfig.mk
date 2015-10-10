@@ -30,5 +30,5 @@ include device/samsung/millet-common/BoardConfigCommon.mk
 TARGET_OTA_ASSERT_DEVICE := milletltetmo,SM-T337T
 
 BOARD_CUSTOM_BOOTIMG_MK := device/samsung/milletltetmo/mkbootimg.mk
-TARGET_KERNEL_VARIANT_CONFIG := msm8296-sec_milletltetmo_defconfig
+TARGET_KERNEL_VARIANT_CONFIG := msm8926-sec_milletltetmo_defconfig
 
