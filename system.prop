@@ -1,9 +1,9 @@
-# system.prop for milletwifi
+# system.prop for milletltetmo
 
 # RIL
-ro.carrier=wifi-only
-ro.radio.noril=yes
+ro.carrier=tmo
+# ro.radio.noril=yes
 
 # Device ID
-ro.product.device=milletwifi
-ro.product.model=milletwifi
+ro.product.device=milletltetmo
+ro.product.model=milletltetmo
