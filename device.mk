@@ -18,7 +18,7 @@
 $(call inherit-product-if-exists, vendor/samsung/millet-common/millet-common-vendor.mk)
 
 # Overlay
-DEVICE_PACKAGE_OVERLAYS += device/samsung/milletwifi/overlay
+DEVICE_PACKAGE_OVERLAYS += device/samsung/milletltetmo/overlay
 
 # Ramdisk
 PRODUCT_PACKAGES += \

@@ -27,8 +27,8 @@ include device/samsung/millet-common/BoardConfigCommon.mk
 -include vendor/samsung/millet-common/BoardConfigVendor.mk
 
 # Assert
-TARGET_OTA_ASSERT_DEVICE := milletwifi,milletwifixx,330,SM-T330,330NU,SM-T330NU,milletwifiue,milletwifiuexx
+TARGET_OTA_ASSERT_DEVICE := milletltetmo,SM-T337T
 
-BOARD_CUSTOM_BOOTIMG_MK := device/samsung/milletwifi/mkbootimg.mk
-TARGET_KERNEL_VARIANT_CONFIG := msm8226-sec_milletwifi_defconfig
+BOARD_CUSTOM_BOOTIMG_MK := device/samsung/milletltetmo/mkbootimg.mk
+TARGET_KERNEL_VARIANT_CONFIG := msm8296-sec_milletltetmo_defconfig
 

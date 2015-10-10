@@ -22,7 +22,7 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifeq ($(TARGET_DEVICE),milletwifi)
+ifeq ($(TARGET_DEVICE),milletltetmo)
 
 include $(call all-makefiles-under,$(LOCAL_PATH))
 
